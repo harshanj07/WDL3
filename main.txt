@@ -1,5 +1,5 @@
 create.php
-index.php
+index.html
 orders.php
-styles.php
+styles.css
 submit.php
